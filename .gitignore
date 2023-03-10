@@ -53,4 +53,6 @@ build/
 /src/test/*
 !/src/test/java/
 /src/test/java/**
+### IntelliJ IDEA project files
+
 /.idea/
